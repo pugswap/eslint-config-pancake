@@ -1,12 +1,12 @@
 {
-  "name": "@pancakeswap-libs/eslint-config-pancake",
+  "name": "@pugswap-libs/eslint-config-pug",
   "version": "1.0.0",
-  "description": "Eslint config for PancakeSwap",
+  "description": "Eslint config for PugSwap",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "git@github.com:pancakeswap/eslint-config-pancake.git",
+  "repository": "git@github.com:pugswap/eslint-config-pug.git",
   "license": "MIT",
   "author": "RabbitDoge",
   "private": false,

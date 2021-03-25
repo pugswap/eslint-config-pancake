@@ -1,8 +1,8 @@
-# eslint-config-pancake
+# eslint-config-pug
 
-**This repository is not used anymore. See the [Pancake toolkit](https://github.com/pancakeswap/pancake-toolkit) instead**
+**This repository is not used anymore. See the [Pug toolkit](https://github.com/pugswap/pug-toolkit) instead**
 
-Pancake Eslint config with:
+Pug Eslint config with:
 
 - Airbnb config
 - Typescript
@@ -11,7 +11,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @pancakeswap-libs/eslint-config-pancake
+npx install-peerdeps --dev @pugswap-libs/eslint-config-pug
 ```
 
-Add `"extends": "@pancakeswap-libs/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "@pugswap-libs/eslint-config-pug"` to your eslint config file.
